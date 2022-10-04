@@ -1,4 +1,4 @@
-<img src="https://imgur.com/6Z4dXwb">
+<img src="https://i.imgur.com/6Z4dXwb">
 
 # AsyncRAT
 AsyncRAT is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection
